@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(232, 235, 208);
+}
+#nav{
+    background-color: rgb(48, 164, 96);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 45px;
+    list-style-type:none;
+}
+#nav{
+    background-color: rgb(232,226,219);
+}
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+li{
+    list-style-type: none;
+}
+.tt:hover{
+    color: rgb(19, 193, 181);
+}
+.tt{
+    color: rgb(84, 80, 77);
+    text-decoration: none;
+}
+#home{
+    font-size: medium;
+}
+#welcome{
+    color: rgb(32, 9, 132);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: rgb(188, 225, 197);
+}
+#maroon{
+    color: rgb(62, 0, 128);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#about{
+    text-align: center;
+    margin: 20px;
+    border-radius:  20px;
+    border: 20px rgb(133,65,65);
+    padding: 50px;
+    background-color: rgb(188, 225, 197);
+}
+#skill{
+    text-align: center;
+    margin: 20px;
+    border-radius:  20px;
+    border: 20px rgb(133,65,65);
+    padding: 50px;
+    background-color: rgb(188, 225, 197);
+}
+#edu{
+    text-align: center;
+    margin: 20px;
+    border-radius:  20px;
+    border: 20px rgb(133,65,65);
+    padding:50px ;
+    background-color: rgb(188,225,197);
+}
+#contact{
+    text-align: center;
+    margin: 20px;
+    border-radius:  20px;
+    border: 20px rgb(133,65,65);
+    padding:50px ;
+    background-color: rgb(188,225,197);
+}
+#ff{
+font-size: larger;
+font-family:Verdana, Geneva, Tahoma, sans-serif
+}
